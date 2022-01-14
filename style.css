@@ -1,0 +1,23 @@
+body{
+    background-color:darkturquoise;
+    padding: 3%;
+    color:whitesmoke;
+}
+.content{
+    padding:1%;
+}
+.red{
+    background-color:red;
+    padding:4%;
+}
+.blue{
+    background-color:blue;
+    padding:4%;
+    
+}
+.whit{
+    background-color:whitesmoke;
+    color:black;
+
+
+}
